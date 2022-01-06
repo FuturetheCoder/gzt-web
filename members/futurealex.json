@@ -1,0 +1,18 @@
+{
+  "full_name": "Destiny Hope",
+  "username": "Futurealex",
+  "image_url": "https://ibb.co/6bxDLGC",
+  "short_description": "I love to code, read and sleep, i aspire an equipoised life",
+  "role": "Mobile App Developer & Fashion Designer",
+  "links": {
+    "website_or_extra": "https://futurethecoder.github.io/Destiny/#/",
+    "github": "https://github.com/futurethecoder",
+    "twitter": "https://www.twitter.com/@futurealex5",
+    "linkedin": "https://www.linkedin.com/in/destiny-hope-562aaa176"
+  },
+  "location": {
+    "state": "Lagos State",
+    "country": "Nigeria"
+  },
+  "isActive": true
+}
